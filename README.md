@@ -35,7 +35,7 @@
 |  <img src="https://i.postimg.cc/QM5PN5nv/dd.jpg" width="200"/> | <img src="https://i.postimg.cc/vT8SvKHd/ddd.jpg" width="200"/>  |
 
 &nbsp;
-|  Peliculas| Series de TV|    
+|  Peliculas| Series  de TV|    
 | :------------: | :------------: | 
 |  <img src="https://i.postimg.cc/BQK2VgLW/dd.jpg" width="200"/> | <img src="https://i.postimg.cc/7Y0m2DNT/ddd.jpg" width="200"/>  |
 
